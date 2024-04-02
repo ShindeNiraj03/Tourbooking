@@ -88,7 +88,7 @@ const Footer = () => {
                   </span>
                   Address:
                 </h6>
-                <p className='mb-0'>Nashik,Maharashtra</p>
+                <p className='mb-3'>Nashik,Maharashtra</p>
 
               </ListGroupItem>
               <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-3'>
@@ -99,7 +99,7 @@ const Footer = () => {
                   </span>
                   Email:
                 </h6>
-                <p className='mb-0'>shindeniraj084@gmail.com</p>
+                <p className='mb-3'>pranotibadwar06@gmail.com</p>
 
               </ListGroupItem>
               <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-3'>
@@ -110,14 +110,14 @@ const Footer = () => {
                   </span>
                   Phone:
                 </h6>
-                <p className='mb-0'>8999909628</p>
+                <p className='mb-3'>9422995787</p>
 
               </ListGroupItem>
               </ListGroup>
           </Col>
           <Col lg='12'>
             <p className="copyright">
-              Copyright: {year},design and develop by Niraj.All rights reserved.
+              Copyright: {year},Designed & Developed by <span className='red'>Pranoti </span>.All rights reserved.
             </p>
           </Col>
         </Row>

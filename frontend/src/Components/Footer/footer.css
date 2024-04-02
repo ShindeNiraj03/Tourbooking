@@ -21,14 +21,18 @@
 
 }
 
+
 .footer__link-title{
      color:black;
-     margin-bottom: 1rem;
+     margin-top: 25rem;
+     
+     
 }
 .footer-quick__links{
      text-decoration:none;
      color: rgb(0, 0, 0);
      font-size: 1.1rem;
+     margin-bottom: 20px;
 }
 .footer__quick-links h6 span i{
      color: black;
@@ -47,6 +51,9 @@
 }
 .span3{
      color: rgb(12, 60, 43);
+}
+.red{
+     color: red;
 }
 .col{
      margin-left: 50px;

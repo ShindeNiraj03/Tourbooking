@@ -139,12 +139,12 @@ const Home = () => {
       <section>
         <Container>
           <Row>
-            <Col lg='12'>
+            {/* <Col lg='12'>
               <Subtitle subtitle={'Fans Love'}/>
               <h2 className="testimonial__title">What our fans say about us</h2>
-            </Col>
+            </Col> */}
             <Col lg='12'>
-              <Testimonials/>
+              {/* <Testimonials/> */}
             </Col>
           </Row>
         </Container>
